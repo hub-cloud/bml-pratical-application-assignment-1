@@ -59,6 +59,6 @@ done based on the user and contextual attributes to increase coupon acceptance.
 
 
 ### Link to Files
-[Data.csv](data/coupons.csv)
+[Data.csv](data/coupons.csv) <br/>
 [Solution Notebook](solution.ipynb)
 
